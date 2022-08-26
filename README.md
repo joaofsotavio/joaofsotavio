@@ -1,4 +1,4 @@
- ##                            Oi eu sou João Otávio,estudante de T.I, amante de tecnologias!
+ ##                            Oi, me chamo João Otávio,estudante de T.I, amante de tecnologias!
 <div align="center">
   <a href="https://github.com/joaofsotavio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaofsotavio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -9,6 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
  
   ##
  
