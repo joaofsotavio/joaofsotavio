@@ -1,4 +1,4 @@
- ##                            Oi, me chamo João Otávio,estudante de T.I, amante de tecnologias!
+ ##                            Oi, me chamo João Otávio, estudante de T.I, amante de tecnologias!
 <div align="center">
   <a href="https://github.com/joaofsotavio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaofsotavio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
