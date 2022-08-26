@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou a bill gates, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/joaofsotavio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaofsotavio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
